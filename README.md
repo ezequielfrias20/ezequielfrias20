@@ -10,7 +10,7 @@
 - 📚 I am currently studying Electrical Engineering at UCV.
 - 🌱 Every day I like to learn a little more
 - 👯 I am looking to collaborate with other developers on various projects
-- 🥅 Objectives for 2021: Develop various applications
+- 🥅 Objectives for 2022: Develop various applications
 - ⚡ Fun fact: I love watching movies and series
 
 
