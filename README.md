@@ -6,7 +6,7 @@
 
 ## I'm a Student and Developer!!
 
-- 👨‍💻 I am a junior full stack web developer
+- 👨‍💻 I am a full stack developer
 - 📚 I am currently studying Electrical Engineering at UCV.
 - 🌱 Every day I like to learn a little more
 - 👯 I am looking to collaborate with other developers on various projects
